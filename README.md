@@ -505,7 +505,7 @@ fig.set_title('Student Distribution Across Courses');
 
 
     
-![png](output_34_0.png)
+![png](images/output_34_0.png)
     
 
 
