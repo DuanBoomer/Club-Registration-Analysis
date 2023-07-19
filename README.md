@@ -517,7 +517,7 @@ fig.set_title('Fields Selected by Students');
 
 
     
-![png](output_35_0.png)
+![png](images/output_35_0.png)
     
 
 
@@ -529,7 +529,7 @@ fig.set_title('Devices Owned by Students');
 
 
     
-![png](output_36_0.png)
+![png](images/output_36_0.png)
     
 
 
@@ -541,7 +541,7 @@ fig.set_title('Tools Used by Students');
 
 
     
-![png](output_37_0.png)
+![png](images/output_37_0.png)
     
 
 
@@ -553,7 +553,7 @@ fig.set_title('Languages Known by Students');
 
 
     
-![png](output_38_0.png)
+![png](images/output_38_0.png)
     
 
 
@@ -565,7 +565,7 @@ fig.set_title('OS Used by Students');
 
 
     
-![png](output_39_0.png)
+![png](images/output_39_0.png)
     
 
 
@@ -589,7 +589,7 @@ for i in range(3):
 
 
     
-![png](output_40_0.png)
+![png](images/output_40_0.png)
     
 
 
@@ -605,7 +605,7 @@ fig.set_title('Distribution of student enrolled by Date');
 
 
     
-![png](output_41_0.png)
+![png](images/output_41_0.png)
     
 
 
@@ -690,7 +690,7 @@ fig.set_ylabel('Gender');
 
 
     
-![png](output_52_0.png)
+![png](images/output_52_0.png)
     
 
 
@@ -790,7 +790,7 @@ fig.set_title('Gender Distribution of Filtered Students');
 
 
     
-![png](output_64_0.png)
+![png](images/output_64_0.png)
     
 
 
