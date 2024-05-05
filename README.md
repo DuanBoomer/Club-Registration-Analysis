@@ -1,4 +1,4 @@
-# Smart Bugs Entry Form Analysis
+# GDSC Entry Form Analysis and Selection
 
 ## Imports
 
